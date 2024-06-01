@@ -4,5 +4,5 @@
 .vimrc goes into home dir
 
 
-### Z Shell
-.zshrc goes into home dir
+### VSCodium Config
+Install using a fresh install of VSCodium
